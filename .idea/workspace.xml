@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcead740-5bf1-4e6b-935a-4208f856d034" name="Default Changelist" comment="" />
+    <list default="true" id="dcead740-5bf1-4e6b-935a-4208f856d034" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/items-service-dev.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -16,6 +22,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1derZwqeKqbLY0UIOX9lSkrW04u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +33,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -43,11 +59,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592796459000</updated>
-      <workItem from="1592796462098" duration="11000" />
+      <workItem from="1592796462098" duration="4272000" />
     </task>
+    <task id="LOCAL-00001" summary="config">
+      <created>1592796505224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592796505224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="config" />
+    <option name="LAST_COMMIT_MESSAGE" value="config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="108" key="#Project_Structure" timestamp="1592809897630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="315" y="108" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592809897630" />
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1592796681331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592796681331" />
+    <state x="832" y="416" key="Github.ShareDialog" timestamp="1592796674704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="416" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592796674704" />
+    <state x="552" y="238" key="Vcs.Push.Dialog.v2" timestamp="1592796522120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="238" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592796522120" />
+    <state x="205" y="194" key="new project wizard" timestamp="1592809872917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="205" y="194" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592809872917" />
   </component>
 </project>

@@ -4,7 +4,7 @@ spring:
 
 # 启动参数 --server.port 可以覆盖yml配置
 server:
-  port: 8001
+  port: 8005
   # 设置此处代表 启动时输入的参数 权重高于 git下的配置文件
   cloud:
     config:
